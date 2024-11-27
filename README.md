@@ -6,17 +6,25 @@ Passionate about Semiconductor Innovation and VLSI also a Chip Design Enthusiast
 with the flexibility and creativity of software development to build cutting-edge solutions.
 
 🌱 Currently learning: SystemVerilog, Embedded C, Python for ML, AI integration in hardware.
+
 👯 Open to collaborating on: Projects in IoT, Hardware-Software Co-Design, and AI-powered hardware applications, Data analyzing, Content writing.
+
 🛠️ Key interests: VLSI design, FPGA programming, IoT systems, AI integration in hardware, and high-performance computing.
+
 🔭 Current Focus: Developing skills and projects in VLSI Design, Embedded Systems, Machine Learning, and Software Development.
+
 ✨ Vision: To push boundaries and create smart, sustainable solutions by seamlessly integrating hardware and software technologies
+
 🌟 Fun Fact:
 I believe that "the most powerful innovations happen when hardware and software come together." Whether it's designing circuits or coding algorithms, I find 
 joy in exploring both worlds to create something extraordinary.
+
 🔧 Skills and Tools
 Languages
 Python 🐍 | C++ 🛠️ | Verilog 💻
+
 Tools
+
 Hardware Design
 Languages: Verilog, VHDL
 Tools: Vivado, Xilinx ISE, Cadence Virtuoso
@@ -28,15 +36,20 @@ Tools: Git, Jupyter Notebooks,VS Code,
 Expertise: Algorithm Development, Frontend development
 
 Git | MATLAB | Jupyter Notebooks | VS Code | Google Coalb | Model Sim
+
 Domains
 VLSI 🖥️ | Data Science 📊 | Data Visualization 📈
 
 📈 My GitHub Stats
 
 🌐 Connect with Me
+
 📫 Email: pavanjahagirdarpavan@gmail.com
+
 💼 LinkedIn:(https://www.linkedin.com/in/pavan-n-jahagirdar-b3399a227?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBC8zV7s%2FSPy7RbH5oYupGQ%3D%3D)
+
 📝 Portfolio: 
+
 🌟 Featured Projects
 Project 1 Name--> ""Satellite Communication Simulation using MATLAB Software""
 Brief description: This project involves developing a simulation environment to model and analyze satellite communication systems. The project includes 
